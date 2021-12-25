@@ -1,0 +1,24 @@
+.myStopwatch {
+	height: 300px;
+	width: 100%;
+	color: grey;
+}
+
+/* #targeting a single element declared with attribute Id "watchdisplay" */
+
+#watchDisplay {
+	width: 100%;
+	font-size: 36px;
+	text-align: center;
+	font-family: Garamond;
+}
+
+/* . target all elements declared with attribute ID "buttons" */
+
+
+.buttons{
+	text-align: center;
+	font-family: Garamond;
+
+}
+	
